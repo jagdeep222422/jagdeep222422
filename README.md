@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d9488,35:0284c7,70:6366f1,100:a855f7&height=220&section=header&text=Jagdeep%20Kumar%20Mahto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Data%20%7C%20Low-Level%20Systems%20%7C%20AI%20Engineer&descFontSize=20&descAlignY=60&descAlign=50" width="100%" />
 
 <!-- Animated Typing Subtitle -->
-<a href="https://jagdeep222422.github.io">
+<a href="https://me.jagdeepa1047.workers.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Software+%26+Data+Engineer+at+Cadmaxx+(DRDO+LRDE);Building+Scalable+Data+Platforms+%26+AI+Agents;Low-Level+Systems%3A+C%2F%2B%2B+%7C+Linux+Kernel+%7C+eBPF+%7C+CUDA;Modern+Data+Engineering%3A+Databricks+%7C+Spark+%7C+Delta+Lake;M.Tech+in+CSA+from+IISc+Bangalore;Welcome+to+my+GitHub+Hub!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
@@ -12,12 +12,12 @@
 
 <!-- Quick Action Badges & Contact Navigation -->
 <p align="center">
-  <a href="https://jagdeep222422.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/jagdeep-kumar-mahto">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/jagdeep-kumar-mahto">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://me.jagdeepa1047.workers.dev/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:jagdeepa1047@gmail.com">
@@ -60,7 +60,7 @@ status: Building high-impact systems, optimizing pipelines & solving hard engine
 - 🤖 **AI & Agentic Systems**: Crafting production-grade AI agents with browser automation (TinyFish), real-time vision pipelines, and LLM orchestration.
 - 🎓 **Academic Rigor**: Graduate degree from **IISc Bangalore** focusing on Computer Architecture, Operating Systems, Compilers & Optimization.
 - 💬 **Ask Me About**: `C++`, `Python`, `Databricks`, `eBPF`, `CUDA`, `Linux Memory Management`, and `Distributed Systems`.
-- 📫 **Reach Me**: [jagdeepa1047@gmail.com](mailto:jagdeepa1047@gmail.com) or on [LinkedIn](https://linkedin.com/in/jagdeep-kumar-mahto).
+- 📫 **Reach Me**: [jagdeepa1047@gmail.com](mailto:jagdeepa1047@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jagdeep-kumar-mahto).
 
 ---
 
@@ -174,9 +174,9 @@ status: Building high-impact systems, optimizing pipelines & solving hard engine
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 <a href="https://jagdeep222422.github.io">Personal Portfolio Hub</a></h4>
-      <p><b>Interactive Developer Landing Page</b></p>
-      <p>Interactive modern web portfolio featuring resume downloads, project walkthroughs, technical skills, and career timeline.</p>
+      <h4>🚀 <a href="https://me.jagdeepa1047.workers.dev/">Personal Portfolio Hub</a></h4>
+      <p><b>Interactive Developer & Engineering Showcase</b></p>
+      <p>Interactive modern web portfolio featuring resume downloads, client project walkthroughs, technical skills, and engineering services.</p>
       <p>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
@@ -217,7 +217,7 @@ Ready to collaborate on high-performance systems, distributed data platforms, or
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/jagdeep-kumar-mahto">
+<a href="https://www.linkedin.com/in/jagdeep-kumar-mahto">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -225,8 +225,8 @@ Ready to collaborate on high-performance systems, distributed data platforms, or
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://jagdeep222422.github.io">
-  <img src="https://img.shields.io/badge/Personal_Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<a href="https://me.jagdeepa1047.workers.dev/">
+  <img src="https://img.shields.io/badge/Live_Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
 </a>
 &nbsp;
 <a href="https://github.com/jagdeep222422">
