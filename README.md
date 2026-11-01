@@ -85,7 +85,7 @@ IT graduate and Software Developer with hands-on experience in **Python, Java, C
   <tr>
     <td width="20%" valign="top"><b>11/2024 – 11/2025</b></td>
     <td>
-      <b>Intern, Data Analytics & Intelligence</b> — <i>Wipro</i><br/>
+      <b>Trainee, Data Analytics & Intelligence</b> — <i>Wipro Limited</i><br/>
       Bangalore, India<br/>
       <ul>
         <li>Designed, built, and optimized batch ETL/ELT pipelines using <b>Talend, dbt, and Matillion</b> to ingest structured datasets into <b>Snowflake</b> for enterprise analytics and reporting.</li>
